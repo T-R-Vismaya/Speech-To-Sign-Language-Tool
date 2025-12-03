@@ -1,4 +1,4 @@
-Audio to Sign Language Converter
+#Audio to Sign Language Converter
 
 A web-based system that converts spoken audio into animated sign language gestures to support communication for deaf and hard-of-hearing users. Built using Django, Python, and speech-processing libraries, the tool provides a bridge between verbal language and sign language representation.
 
@@ -25,15 +25,22 @@ Features
 | Version Control   | Git & GitHub                            |
 
 A2SL/
+
 │ manage.py
+
 │ requirements.txt
+
 ├── A2SL/          # Core Django project
+
 ├── templates/     # HTML templates
+
 ├── assets/        # Media, animations, gesture files
+
 ├── db.sqlite3     # Local database (ignored in git)
 
 
 🏁 Setup Instructions
+
 1️⃣ Clone the Repository
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
@@ -62,8 +69,11 @@ http://127.0.0.1:8000/
 👥 Team Members
 
 T R VISMAYA
+
 LIYA JOJO
+
 MERIN XAVIER
+
 NANDANA K S
 
 📜 License
