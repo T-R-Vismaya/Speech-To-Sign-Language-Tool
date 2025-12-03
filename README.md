@@ -1,4 +1,4 @@
-#Audio to Sign Language Converter
+Audio to Sign Language Converter
 
 A web-based system that converts spoken audio into animated sign language gestures to support communication for deaf and hard-of-hearing users. Built using Django, Python, and speech-processing libraries, the tool provides a bridge between verbal language and sign language representation.
 
